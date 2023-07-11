@@ -1,0 +1,43 @@
+----Exp\
+    |----Exp1\
+    |    |----Data\
+    |    |    |----Advertising.csv
+    |    |    |----women.csv
+    |    |----LinearRegression_women.py
+    |    |----MultipleRegression_adver.py
+    |    |----PolynomialRegression_women.py
+    |    |----Result\
+    |    |    |----newspaper-sales_scatter.png
+    |    |    |----radio-sales_scatter.png
+    |    |    |----TV-sales_scatter.png
+    |    |    |----women-height-weight_LR_scatter.png
+    |    |    |----women-height-weight_PR_scatter.png
+    |----Exp2\
+    |    |----Data\
+    |    |    |----data1.mat
+    |    |    |----data2.mat
+    |    |    |----data3.mat
+    |    |    |----data4.mat
+    |    |----DataLoad.py
+    |    |----main.py
+    |    |----model\
+    |    |    |----BPNet.pt
+    |    |----Net\
+    |    |    |----BPNet.py
+    |    |----Result\
+    |    |    |----BPNet.txt
+    |    |    |----Test\
+    |    |    |    |----BPNet.csv
+    |    |    |----Train\
+    |    |    |    |----BPNet.csv
+    |----Exp3\
+    |    |----Data\
+    |    |    |----iris.data
+    |    |    |----iris.names
+    |    |----main.py
+    |    |----Plot.py
+    |    |----Result\
+    |    |    |----iris-cla.png
+    |    |    |----iris-petal-cla.png
+    |    |    |----iris-sepal-cal.png
+    |    |    |----iris-sepal-petal-cla.png
